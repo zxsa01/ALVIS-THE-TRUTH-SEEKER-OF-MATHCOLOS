@@ -108,7 +108,7 @@
 
 ![image](https://user-images.githubusercontent.com/90230459/147677230-160e08b3-006f-4bc8-9c17-9ef10cb6aa72.png)
 
-![Screenshot_1640791473](https://user-images.githubusercontent.com/90230459/147677481-4409496b-1b20-40d8-ade8-d9852c6e555c.png)
+![Screenshot_1640791473](https://user-images.githubusercontent.com/90230459/147677481-4409496b-1b20-40d8-ade8-d9852c6e555c.png | 280x1480)
 
 - run project: npm run android
 
