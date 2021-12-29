@@ -79,4 +79,8 @@
 
 # METHODOLOGY
 * Edit AndroidManifest.xml
-- open AndroidManifest.xml file in game  
+  - open AndroidManifest.xml file in D:\Project\game\android\app\src\main (The path depends on the address of the project.)
+ 
+ ![image](https://user-images.githubusercontent.com/90230459/147670348-9d86b52e-59fc-4726-9468-f74121fa3200.png)
+
+
