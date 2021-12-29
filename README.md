@@ -52,4 +52,29 @@
 ![image](https://user-images.githubusercontent.com/90230459/147665530-162e6426-49e1-4789-b8a4-ddbd09ba7d88.png)
 
 # IMPORT DATABASE
+- open XAMPP control panel
+
+![image](https://user-images.githubusercontent.com/90230459/147666703-b7ae2324-8eed-4b5e-830f-4fdef29f22dd.png)
+
+- start Apache and MySQL
+
+![image](https://user-images.githubusercontent.com/90230459/147666814-b04b0a91-031e-436f-9d1b-74fc9acb54d5.png)
+
+- open phpMyAdmin
+
+![image](https://user-images.githubusercontent.com/90230459/147667007-4ee671f5-16d4-4475-b781-3dc419413871.png)
+
+- import file game.sql
+
+![image](https://user-images.githubusercontent.com/90230459/147667101-28dd7b93-74c1-48e7-b543-1d4f71150128.png)
+
+- import successful
+
+![image](https://user-images.githubusercontent.com/90230459/147667194-d90df255-3903-45a3-8c58-251f231d9cf3.png)
+
+- database
+
+![image](https://user-images.githubusercontent.com/90230459/147667287-86c99a8a-1573-43d2-a7ca-b0c77cd01fb5.png)
+
+
 # METHODOLOGY
