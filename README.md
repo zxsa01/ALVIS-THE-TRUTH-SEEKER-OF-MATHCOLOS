@@ -78,4 +78,4 @@
 
 
 # METHODOLOGY
-* EDIT AndroidManifest.xml
+* Edit AndroidManifest.xml
