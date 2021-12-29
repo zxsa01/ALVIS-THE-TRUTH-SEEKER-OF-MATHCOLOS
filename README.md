@@ -98,3 +98,19 @@
     ![image](https://user-images.githubusercontent.com/90230459/147676668-f2ba7553-da02-4f85-bf92-ee6b26ff326f.png)
 
 # RUN PROJECT
+- open project
+
+![image](https://user-images.githubusercontent.com/90230459/147677042-5280d9b4-5b71-4540-9e09-87b5bdd1d92c.png)
+
+- open emulator
+
+![image](https://user-images.githubusercontent.com/90230459/147677168-35621071-583b-4b87-92b8-a6649b6fe745.png)
+
+![image](https://user-images.githubusercontent.com/90230459/147677230-160e08b3-006f-4bc8-9c17-9ef10cb6aa72.png)
+
+![Screenshot_1640791473](https://user-images.githubusercontent.com/90230459/147677481-4409496b-1b20-40d8-ade8-d9852c6e555c.png)
+
+- run project: npm run android
+
+![image](https://user-images.githubusercontent.com/90230459/147677587-484e821d-dba6-43bb-8055-c1d4e6daf8fd.png)
+
