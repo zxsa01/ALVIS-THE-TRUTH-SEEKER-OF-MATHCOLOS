@@ -96,3 +96,5 @@
     * put api_game folder in htdocs folder
     
     ![image](https://user-images.githubusercontent.com/90230459/147676668-f2ba7553-da02-4f85-bf92-ee6b26ff326f.png)
+
+# RUN PROJECT
