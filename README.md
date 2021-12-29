@@ -118,6 +118,6 @@
 
 ![image](https://user-images.githubusercontent.com/90230459/147678432-7bd6877b-9f73-4f6b-be69-620685ec7d76.png)
 
-<img src = "https://user-images.githubusercontent.com/90230459/147678522-f0532086-f6b0-4cf1-a616-74110f30138b.png" width = "280" height = "580" />
+<img src = "https://user-images.githubusercontent.com/90230459/147678522-f0532086-f6b0-4cf1-a616-74110f30138b.png" width = "580" height = "280" />
 
 
