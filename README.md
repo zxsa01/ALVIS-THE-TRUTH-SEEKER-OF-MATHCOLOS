@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/90230459/147662125-ecccd4fa-5ab0-432f-bf0a-a8ee7ac114fe.png)
 
 # INSTALL PACKAGE
-- open command prompt in folder game (game is name project folder)
+- open command prompt in game folder (game is name project folder)
 - install package: npm install @react-navigation/native @react-navigation/native-stack
 
 ![image](https://user-images.githubusercontent.com/90230459/147664181-140e96f7-02c8-4bb1-8fc6-34ff4d071bbc.png)
@@ -64,7 +64,7 @@
 
 ![image](https://user-images.githubusercontent.com/90230459/147667007-4ee671f5-16d4-4475-b781-3dc419413871.png)
 
-- import file game.sql
+- import game.sql file
 
 ![image](https://user-images.githubusercontent.com/90230459/147667101-28dd7b93-74c1-48e7-b543-1d4f71150128.png)
 
@@ -79,3 +79,4 @@
 
 # METHODOLOGY
 * Edit AndroidManifest.xml
+- open AndroidManifest.xml file in game  
