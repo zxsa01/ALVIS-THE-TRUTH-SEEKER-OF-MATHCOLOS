@@ -78,3 +78,4 @@
 
 
 # METHODOLOGY
+*EDIT AndroidManifest.xml
