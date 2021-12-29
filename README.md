@@ -81,11 +81,11 @@
 * Edit AndroidManifest.xml
    * open AndroidManifest.xml file in D:\Project\game\android\app\src\main (The path depends on the address of the project.)
    
-   * ![image](https://user-images.githubusercontent.com/90230459/147670348-9d86b52e-59fc-4726-9468-f74121fa3200.png)
+   ![image](https://user-images.githubusercontent.com/90230459/147670348-9d86b52e-59fc-4726-9468-f74121fa3200.png)
    
    * add: android:screenOrientation = "landscape"
    
-   * ![image](https://user-images.githubusercontent.com/90230459/147670744-5ad6adf9-f916-4c30-9f28-3f310114d976.png)
+   ![image](https://user-images.githubusercontent.com/90230459/147670744-5ad6adf9-f916-4c30-9f28-3f310114d976.png)
 
 
 
