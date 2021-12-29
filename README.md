@@ -19,4 +19,13 @@
 
 ![image](https://user-images.githubusercontent.com/90230459/147664292-d0dc699e-c9db-430c-91c5-d6d613c6b28c.png)
 
+- install package: npm install react-native-screens react-native-safe-area-context
+
+![image](https://user-images.githubusercontent.com/90230459/147664479-6db1dd3c-942d-4cbe-8dcb-fbbbc4e64f39.png)
+
+- install package react-native-screens react-native-safe-area-context successful
+
+![image](https://user-images.githubusercontent.com/90230459/147664588-2efeb5a1-0ec7-481f-8ba4-879fa9e325be.png)
+
+
 # METHODOLOGY
