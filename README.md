@@ -86,6 +86,12 @@
    * add: android:screenOrientation = "landscape"
    
    ![image](https://user-images.githubusercontent.com/90230459/147670744-5ad6adf9-f916-4c30-9f28-3f310114d976.png)
+   
+ * Add folder and file put game folder (game is name project folder)
+  * put App.js file and components, images, pages folder in game folder
+  
+  ![image](https://user-images.githubusercontent.com/90230459/147676182-60acc52a-211d-49aa-8dba-7aacb86b27d0.png)
+
 
 
 
