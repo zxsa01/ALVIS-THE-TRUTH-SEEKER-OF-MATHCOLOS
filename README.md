@@ -92,6 +92,7 @@
   
     ![image](https://user-images.githubusercontent.com/90230459/147676182-60acc52a-211d-49aa-8dba-7aacb86b27d0.png)
 
-
-
-
+* Add folder put C:\xampp\htdocs (The path depends on the address of the xampp.)
+    * put api_game folder in htdocs folder
+    
+    ![image](https://user-images.githubusercontent.com/90230459/147676668-f2ba7553-da02-4f85-bf92-ee6b26ff326f.png)
