@@ -53,7 +53,11 @@
 
 - package.json file case, install package: npm install (But you have to add folder and file put game folder first in package.json file case.)
 
+![image](https://user-images.githubusercontent.com/90230459/147715733-be3224f8-f063-433d-834b-727807e975f9.png)
 
+- install package successful
+
+![image](https://user-images.githubusercontent.com/90230459/147715769-df1e8568-97c1-4917-87d3-52c14b81c103.png)
 
 # IMPORT DATABASE
 - open XAMPP control panel
