@@ -91,6 +91,9 @@
     * put App.js file and components, images, pages folder in game folder
   
     ![image](https://user-images.githubusercontent.com/90230459/147676182-60acc52a-211d-49aa-8dba-7aacb86b27d0.png)
+    
+    ![image](https://user-images.githubusercontent.com/90230459/147714993-8d2310c3-9bc9-424f-a757-016845d47f30.png)
+
 
 * Add folder put C:\xampp\htdocs (The path depends on the address of the xampp.)
     * put api_game folder in htdocs folder
