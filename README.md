@@ -51,6 +51,10 @@
 
 ![image](https://user-images.githubusercontent.com/90230459/147665530-162e6426-49e1-4789-b8a4-ddbd09ba7d88.png)
 
+- package.json file case, install package: npm install
+
+
+
 # IMPORT DATABASE
 - open XAMPP control panel
 
@@ -91,6 +95,8 @@
     * put App.js file and components, images, pages folder in game folder
   
     ![image](https://user-images.githubusercontent.com/90230459/147676182-60acc52a-211d-49aa-8dba-7aacb86b27d0.png)
+    
+    * package.json file case
     
     ![image](https://user-images.githubusercontent.com/90230459/147714993-8d2310c3-9bc9-424f-a757-016845d47f30.png)
 
