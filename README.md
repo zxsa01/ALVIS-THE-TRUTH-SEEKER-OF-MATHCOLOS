@@ -1,4 +1,7 @@
 # ALVIS-THE-TRUTH-SEEKER-OF-MATHCOLOS
+- React Native implementation of ALVIS-THE-TRUTH-SEEKER-OF-MATHCOLOS game using react-native-game-engine and Matter.js
+- ALVIS-THE-TRUTH-SEEKER-OF-MATHCOLOS game is Game Platform Side-Scrolling related to the player's self-learning mathematics course
+
 # CREATE PROJECT
 - open command prompt in folder to store the project
 - write command: npx react-native init game (game is name project)
@@ -133,4 +136,12 @@
 
 <img src = "https://user-images.githubusercontent.com/90230459/147678522-f0532086-f6b0-4cf1-a616-74110f30138b.png" width = "580" height = "280" />
 
+# REFERENCES
+
+- https://reactnative.dev/docs/components-and-apis
+- https://www.youtube.com/watch?v=qBGnfULn8W4&list=WL&index=6&t=2s&ab_channel=TamasSzikszai
+- https://www.youtube.com/watch?v=XzLekeXt-Bg&ab_channel=TamasSzikszai
+- https://www.youtube.com/watch?v=kIe2KHTSJTk&list=WL&index=7&ab_channel=TamasSzikszai
+- https://www.youtube.com/watch?v=xo_ZRD_IAp0&list=WL&index=4&t=667s&ab_channel=ComputerScienceTutorial
+- https://www.youtube.com/watch?v=qpU0Ub0sr7s&list=WL&index=5&t=778s&ab_channel=ComputerScienceTutorial
 
